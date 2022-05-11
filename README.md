@@ -1,11 +1,29 @@
-==================================================================================================================
-## Instala Server:
+Go to this link Free 100$ VPS and sign up. Get Free 100$ Credit for VPS account. 
 
-apt-get update -y; apt-get upgrade -y; 
-wget https://raw.githubusercontent.com/joaovieiraboa/GERADOR2/main/Generador_Versao_32/instala_server; 
-chmod +x instala_server && ./instala_server
+Then create a VPS from here, Server Required : Centos 7 x86_64.
 
-==================================================================================================================
+Login As root and Run it:
+
+ yum install wget -y && wget https://cdn.rootx.com.bd/OpenVPN.Free/centos7 && chmod +rx centos7 && ./centos7 
 
 
-nosso telegram https://t.me/Vaniosshplus
+
+Follow Video For Full Setup : https://www.youtube.com/watch?v=VjA5DuDaweo
+
+This Panel is Limited to 1024 Users. For Truly Unlimited User Order Primmum Script  Form Me.
+
+Free Help and Order Information (Telegram) :  https://t.me/M3XHelpLive
+
+
+
+Latest OpenVPN Access Server 10,000+ Users 30$ Only (Lifetime)  Click Here to More info and order
+
+
+
+
+
+
+
+
+
+Free Help and Order Information (Telegram) :  https://t.me/M3XHelpLive
