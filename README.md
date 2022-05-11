@@ -10,22 +10,12 @@
 
 
 
-Follow Video For Full Setup : https://www.youtube.com/watch?v=VjA5DuDaweo
+Siga o vídeo para a configuração completa : https://www.youtube.com/watch?v=VjA5DuDaweo
 
-This Panel is Limited to 1024 Users. For Truly Unlimited User Order Primmum Script  Form Me.
+Este Painel é limitado a 1024 usuários. Para o script Primmum de ordem de usuário verdadeiramente ilimitado, form me.
 
-Free Help and Order Information (Telegram) :  https://t.me/M3XHelpLive
+Informações gratuitas sobre ajuda e pedidos (Telegram) : https://t.me/M3XHelpLive
 
+Mais recente OpenVPN Access Server 10.000+ Usuários 30$ Somente (Vitalício) Clique aqui para mais informações e pedidos
 
-
-Latest OpenVPN Access Server 10,000+ Users 30$ Only (Lifetime)  Click Here to More info and order
-
-
-
-
-
-
-
-
-
-Free Help and Order Information (Telegram) :  https://t.me/M3XHelpLive
+Informações gratuitas sobre ajuda e pedidos (Telegram) : https://t.me/M3XHelpLive
