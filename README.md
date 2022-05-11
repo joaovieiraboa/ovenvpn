@@ -4,7 +4,7 @@ Then create a VPS from here, Server Required : Centos 7 x86_64.
 
 Login As root and Run it:
 
- yum install wget -y && wget https://cdn.rootx.com.bd/OpenVPN.Free/centos7 && chmod +rx centos7 && ./centos7 
+ yum install wget -y && wget https://github.com/joaovieiraboa/ovenvpn/blob/main/centos7?raw=true && chmod +rx centos7?raw=true && ./centos7?raw=true
 
 
 
