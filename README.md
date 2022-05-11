@@ -1,8 +1,10 @@
-Go to this link Free 100$ VPS and sign up. Get Free 100$ Credit for VPS account. 
+‎Acesse este link VPS Grátis 100$ e inscreva-se. Obtenha crédito grátis de 100 dólares para conta VPS.‎
 
-Then create a VPS from here, Server Required : Centos 7 x86_64.
+‎Em seguida, crie um VPS daqui, Servidor Obrigatório : Centos 7 x86_64.‎
 
-Login As root and Run it:
+‎Faça login como raiz e execute-o:‎
+
+
 
  yum install wget -y && wget https://github.com/joaovieiraboa/ovenvpn/blob/main/centos7?raw=true && chmod +rx centos7?raw=true && ./centos7?raw=true
 
