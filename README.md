@@ -5,6 +5,9 @@
 ‎Faça login como raiz e execute-o:‎
 
 
+ yum install wget
+
+wget https://github.com/joaovieiraboa/ovenvpn/blob/main/centos7?raw=true && chmod +rx centos7?raw=true && ./centos7?raw=true
 
  yum install wget -y && wget https://github.com/joaovieiraboa/ovenvpn/blob/main/centos7?raw=true && chmod +rx centos7?raw=true && ./centos7?raw=true
 
